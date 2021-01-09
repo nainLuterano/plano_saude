@@ -6,4 +6,5 @@
 #### Breve descrição:
 
 __simples projeto para ser executa via terminal, utilizando php cli.__
+
 __execute o arquivo main.php__  
